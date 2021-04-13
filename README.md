@@ -1,7 +1,7 @@
 # SNAKE GAME :star_struck:
 
 [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) 
-***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+<br>***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
