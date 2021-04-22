@@ -1,7 +1,8 @@
 # SNAKE GAME :star_struck:
 
 [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-pygame-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-random-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-time-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-datetime-orange)](https://shields.io/)
-<br>***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
+<br>
+***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
 
@@ -25,10 +26,8 @@ SNAKE_GAME
     ├── scorecard.txt
     └── mp3 songs
 ```
-    
-
 ## Making :point_down:
-I have made this game using Python3.
+I have made this game using Python3. I have saved highscore in a file. Each time the snake eats food, its size increases. I have used some mp3 songs for background musics.
 ## Screenshots :point_down: 
 <div align="center">
 <a href="snake1.jpeg"><img src="snake1.jpeg" width="400" height= "250"></a> <a href="snake2.jpeg"><img src="snake2.jpeg" width="400" height= "250"></a>
