@@ -31,5 +31,7 @@ SNAKE_GAME
 I have made this game using Python3.
 ## Screenshots :point_down: 
 <div align="center">
+<a href="snake1.jpeg"><img src="snake1.jpeg" width="400" height= "250"></a> <a href="snake2.jpeg"><img src="snake2.jpeg" width="400" height= "250"></a>
 
+<a href="snake3.jpeg"><img src="snake3.jpeg" width="400" height= "250"></a> <a href="snake4.jpeg"><img src="snake4.jpeg" width="400" height= "250"></a>
 </div>
