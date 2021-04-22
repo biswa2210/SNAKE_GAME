@@ -1,6 +1,6 @@
 # SNAKE GAME :star_struck:
 
-[![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-pygame-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-random-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-time-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-datetime-orange)](https://shields.io/)
 <br>***This new Web application is created by Biswarup Bhattacharjee, student of BTECH, in University of Engineering and Management, Kolkata.***
 
 **Email Id: bbiswa471@gmail.com.** 
