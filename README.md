@@ -71,6 +71,8 @@ SNAKE_GAME
 <a href="pics/snake1.jpeg"><img src="pics/snake1.jpeg" width="400" height= "280"></a> <a href="pics/snake2.jpeg"><img src="pics/snake2.jpeg" width="400" height= "280"></a>
 
 <a href="pics/snake3.jpeg"><img src="pics/snake3.jpeg" width="400" height= "280"></a> <a href="pics/snake4.jpeg"><img src="pics/snake4.jpeg" width="400" height= "280"></a>
+
+<a href="pics/gif.gif"><img src="pics/gif.gif" width="400" height= "280"></a>
 </div>
 
 </div>
