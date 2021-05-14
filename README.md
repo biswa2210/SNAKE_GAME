@@ -1,4 +1,6 @@
-# SNAKE GAME :star_struck:
+<div align="justified">
+    
+# SNAKE GAME :star_struck: :open_mouth: :running: :star2:
 
 [![Generic badge](https://img.shields.io/badge/advance-Python3-yellowgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-pygame-blue)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-random-red)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-time-brightgreen)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/module-datetime-orange)](https://shields.io/)
 <br>
@@ -18,6 +20,10 @@ It is a [snake game](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) mad
 
 - [x] The snake has eaten food.
 - [ ] The snake has bit its body.
+
+### Two types of Scores are there :point_down:
+- Highscore
+- Score
 
 ## Purpose :point_down:
 
@@ -51,4 +57,6 @@ SNAKE_GAME
 <a href="pics/snake1.jpeg"><img src="pics/snake1.jpeg" width="400" height= "280"></a> <a href="pics/snake2.jpeg"><img src="pics/snake2.jpeg" width="400" height= "280"></a>
 
 <a href="pics/snake3.jpeg"><img src="pics/snake3.jpeg" width="400" height= "280"></a> <a href="pics/snake4.jpeg"><img src="pics/snake4.jpeg" width="400" height= "280"></a>
+</div>
+
 </div>
