@@ -27,8 +27,8 @@ It is a [snake game](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) mad
 
 ### Two types of Scores are there :point_down:
 
-- Highscore
-- Score
+- 'Highscore'
+- 'Score'
 
 ## Purpose :point_down:
 
@@ -62,7 +62,7 @@ SNAKE_GAME
 
 
 <div align="center">
-![](pics/gif.gif) 
+![](https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif)
 </div>   
     
 ## Screenshots :point_down: 
