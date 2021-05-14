@@ -3,6 +3,11 @@ import time
 import random
 import datetime
 import time
+"""
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+"""
 pygame.init()
 bgsongs=["nagin.mp3","chumakhai.mp3","nagindance.mp3","sgs1.mp3","sgs2.mp3","sgs3.mp3","sgs4.mp3","sgs5.mp3","sgs6.mp3","sgs7.mp3","sgs8.mp3","sgs10.mp3","yalgaar.mp3"]
 white = (255, 255, 255)
