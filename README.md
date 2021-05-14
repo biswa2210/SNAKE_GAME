@@ -62,7 +62,7 @@ SNAKE_GAME
 
 
 <div align="center">
-![](https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif)
+![](https://github.com/biswa2210/SNAKE_GAME/blob/main/pics/gif.gif)
 </div>   
     
 ## Screenshots :point_down: 
