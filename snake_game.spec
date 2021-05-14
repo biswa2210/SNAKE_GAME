@@ -1,7 +1,11 @@
 # -*- mode: python ; coding: utf-8 -*-
 
 block_cipher = None
-
+""" 
+CREATED BY BISWARUP BHATTACHARJEE
+EMAIL    : bbiswa471@gmail.com
+PHONE NO : 6290272740
+"""
 
 a = Analysis(['snake_game.py'],
              pathex=['E:\\PROGRAMMING\\python\\pygamemodule\\snake game'],
