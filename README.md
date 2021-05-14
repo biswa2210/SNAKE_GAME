@@ -46,7 +46,7 @@ SNAKE_GAME
 ## Screenshots :point_down: 
 {: .gitlab-yellow}
 <div align="center">
-<a href="snake1.jpeg"><img src="snake1.jpeg" width="400" height= "280"></a> <a href="snake2.jpeg"><img src="snake2.jpeg" width="400" height= "280"></a>
+<a href="pics/snake1.jpeg"><img src="pics/snake1.jpeg" width="400" height= "280"></a> <a href="pics/snake2.jpeg"><img src="pics/snake2.jpeg" width="400" height= "280"></a>
 
-<a href="snake3.jpeg"><img src="snake3.jpeg" width="400" height= "280"></a> <a href="snake4.jpeg"><img src="snake4.jpeg" width="400" height= "280"></a>
+<a href="pics/snake3.jpeg"><img src="pics/snake3.jpeg" width="400" height= "280"></a> <a href="pics/snake4.jpeg"><img src="pics/snake4.jpeg" width="400" height= "280"></a>
 </div>
