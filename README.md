@@ -14,6 +14,11 @@
 ## About :point_down: 
 It is a [snake game](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) made by Python3. Here a queue of bakground music plays while playing the game. Snake game is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle. The concept originated in the 1976 arcade game Blockade, and the ease of implementing Snake has led to hundreds of versions (some of which have the word snake or worm in the title) for many platforms. After a variant was preloaded on Nokia mobile phones in 1998, there was a resurgence of interest in the snake concept as it found a larger audience. The player controls a dot, square, or object on a bordered plane. As it moves forward, it leaves a trail behind, resembling a moving snake. In some games, the end of the trail is in a fixed position, so the snake continually gets longer as it moves. In another common scheme, the snake has a specific length, so there is a moving tail a fixed number of units away from the head. The player loses when the snake runs into the screen border, a trail, other obstacle, or itself. When the game is over the high score is stored and we can see this. 
 
+### The scoring System of this game :point_down:
+
+-[x]The snake has eaten food.
+-[]The snake has bit its body.
+
 ## Purpose :point_down:
 
 I have made this for entertainment of children as well as adults. Anyone can play it very easily. The objective of the game is to make the other player crash. The snake game is simple game. In this game the snake is eating some foods and get its size larger in step by step and getting some score.
