@@ -59,11 +59,6 @@ SNAKE_GAME
         </summary>
     I have made this game using Python3. I have saved highscore in a file. Each time the snake eats food, its size increases. I have used some mp3 songs for background musics.
 </details>
-
-
-<div align="center">
-![](https://github.com/biswa2210/SNAKE_GAME/blob/main/pics/gif.gif)
-</div>   
     
 ## Screenshots :point_down: 
 
@@ -72,7 +67,7 @@ SNAKE_GAME
 
 <a href="pics/snake3.jpeg"><img src="pics/snake3.jpeg" width="400" height= "280"></a> <a href="pics/snake4.jpeg"><img src="pics/snake4.jpeg" width="400" height= "280"></a>
 
-<a href="pics/gif.gif"><img src="pics/gif.gif" width="400" height= "280"></a>
+<a href="pics/gif.gif"><img src="pics/gif.gif" width="800" height= "300"></a>
 </div>
 
 </div>
