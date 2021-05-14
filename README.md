@@ -22,11 +22,6 @@ I have made this for entertainment of children as well as adults. Anyone can pla
 
 A snake game is an arcade maze game which has been developed by Gremlin Industries and published by Sega in October 1976. It is considered to be a skillful game and has popularized among people for generations. The snake in the Snake game is controlled using the four direction buttons relative to the direction it is headed in. The player’s objective in the game is to achieve maximum points as possible by collecting food or fruits. The player loses once the snake hits the wall or hits itself. It is a very popular game. 
 
-# Color Test Document
-
-<style>H1{color:Blue;}</style>
-<style>H2{color:DarkOrange;}</style>
-<style>p{color:Black;}</style>
 ## Folder Structure :point_down:
 
 ```bash
@@ -43,7 +38,7 @@ SNAKE_GAME
         "To read about making this project click here"
         </summary>
     I have made this game using Python3. I have saved highscore in a file. Each time the snake eats food, its size increases. I have used some mp3 songs for background musics.
-    </details>
+</details>
 ## Screenshots :point_down: 
 
 <div align="center">
