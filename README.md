@@ -16,8 +16,8 @@ It is a [snake game](https://en.wikipedia.org/wiki/Snake_(video_game_genre)) mad
 
 ### The scoring System of this game :point_down:
 
--[x] The snake has eaten food.
--[ ] The snake has bit its body.
+- [x] The snake has eaten food.
+- [] The snake has bit its body.
 
 ## Purpose :point_down:
 
