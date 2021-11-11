@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100070395300810" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="biswa2210" height="30" width="40" /></a>
 <a href="https://instagram.com/biswarup2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://github.com/biswa2210/biswa2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
+<a href="https://github.com/biswa2210" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="" height="30" width="40" /></a>
 </p>
 
 ## About :point_down: 
@@ -65,6 +65,9 @@ SNAKE_GAME
 ## Screenshots :point_down: 
 
 <div align="center">
+    
+<a href="PICS/gui.png"><img src="pics/gui.png" width="800" height= "280"></a>
+    
 <a href="PICS/snake1.jpeg"><img src="pics/snake1.jpeg" width="400" height= "280"></a> <a href="PICS/snake2.jpeg"><img src="pics/snake2.jpeg" width="400" height= "280"></a>
 
 <a href="PICS/snake3.jpeg"><img src="pics/snake3.jpeg" width="400" height= "280"></a> <a href="PICS/snake4.jpeg"><img src="pics/snake4.jpeg" width="400" height= "280"></a>
