@@ -49,9 +49,8 @@ A snake game is an arcade maze game which has been developed by Gremlin Industri
 
 ```bash
 SNAKE_GAME
-    ├── sanke_game.spec
-    ├── snake-game.spec
     ├── snake_game.py
+    ├── snake_gui.py
     ├── highscore.txt
     ├── scorecard.txt
     └── mp3 songs
@@ -60,7 +59,7 @@ SNAKE_GAME
     <summary>
         "To read about making this project click here"
         </summary>
-    I have made this game using Python3. I have created two python files I have saved highscore in a file. Each time the snake eats food, its size increases. I have used some mp3 songs for background musics.
+    I have made this game using Python3. I have created two python files snake_game.py and snake_gui.py. The first one is for game and the second one is for the GUI. I have saved highscore in a file. Each time the snake eats food, its size increases. I have used some mp3 songs for background musics.
 </details>
     
 ## Screenshots :point_down: 
