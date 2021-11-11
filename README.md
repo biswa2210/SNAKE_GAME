@@ -66,11 +66,11 @@ SNAKE_GAME
 
 <div align="center">
     
-<a href="PICS/gui.png"><img src="pics/gui.png" width="800" height= "280"></a>
+<a href="PICS/gui.png"><img src="PICS/gui.png" width="800" height= "280"></a>
     
-<a href="PICS/snake1.jpeg"><img src="pics/snake1.jpeg" width="400" height= "280"></a> <a href="PICS/snake2.jpeg"><img src="pics/snake2.jpeg" width="400" height= "280"></a>
+<a href="PICS/snake1.jpeg"><img src="PICS/snake1.jpeg" width="400" height= "280"></a> <a href="PICS/snake2.jpeg"><img src="PICS/snake2.jpeg" width="400" height= "280"></a>
 
-<a href="PICS/snake3.jpeg"><img src="pics/snake3.jpeg" width="400" height= "280"></a> <a href="PICS/snake4.jpeg"><img src="pics/snake4.jpeg" width="400" height= "280"></a>
+<a href="PICS/snake3.jpeg"><img src="PICS/snake3.jpeg" width="400" height= "280"></a> <a href="PICS/snake4.jpeg"><img src="PICS/snake4.jpeg" width="400" height= "280"></a>
 
 </div>
 
