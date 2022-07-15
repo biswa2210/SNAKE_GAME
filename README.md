@@ -33,6 +33,10 @@ The name of the game is Hungry Snake. It is a [snake game](https://en.wikipedia.
 - 'Highscore'
 - 'Score'
 
+## HUNGRY SNAKE GAME DEMO VIDEO: :point_right: <a href="https://www.youtube.com/watch?v=P0BFv9c8uKs&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr&index=5">Click here to watch</a>
+
+## PYTHON PLAYLIST: :point_right: <a href="https://www.youtube.com/watch?v=SsKXFCSfQgw&list=PL0lbDlMJ1h4ikgkbohDuJurlnFvGzJCMr">Click here to watch</a>
+
 ## Purpose :point_down:
 
 <div align="justified">
